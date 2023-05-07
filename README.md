@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Porsno project
 - 🌱 I’m currently learning => Flutter ,  Kotlin 
-- 💬 Ask me about Android - Java - Javafx -Flutter
+- 💬 Ask me about Android - Java - Kotlin - SpringBoot
 - 📫 How to reach me: tm: @m_moh_kz
 
 
