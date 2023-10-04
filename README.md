@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-**mohkhz2001/mohkhz2001** is a ✨ _special_ ✨ repository 
-
-Here are some ideas to get you started:
-
+Hi there 👋 I'm Brylie.
 
 - 🔭 I’m currently working on Help-desk system(supporting website)
 - 🌱 I’m currently learning Spring-boot and Microservices
